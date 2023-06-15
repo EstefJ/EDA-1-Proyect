@@ -1,6 +1,10 @@
 #include <stdio.h>
 #include "menu.h"
-
+/**
+ * @brief Muestra las opciones del menú y toma la opción escogida
+ *
+ * @return La opción escogida por el usuario
+ */
 int mostrarMenu()
 {
     int opcion;
